@@ -1,0 +1,51 @@
+document_id,entity,gold_answer,pred_best
+ru-1000,Brexit,EVT,EVT
+ru-1000,The Guardian,PRO,PRO
+ru-1000,Борис Джонсон,PER,PER
+ru-1000,Бориса Джонсона,PER,PER
+ru-1000,Бориса,PER,PER
+ru-1000,Великобритании,LOC,LOC
+ru-1000,Джонсон,PER,PER
+ru-1000,Дэвид Дэвис,PER,PER
+ru-1000,ЕС,ORG,ORG
+ru-1000,МИД Соединенного Королевства,ORG,ORG
+ru-1000,Подробности.ua,PRO,PER
+ru-1000,Стив Бейкер,PER,PER
+ru-1000,Тереза Мэй,PER,PER
+ru-1000,УНН,ORG,ORG
+ru-1004,Brexit,EVT,EVT
+ru-1004,Борис Джонсон,PER,PER
+ru-1004,Германии,LOC,PER
+ru-1004,Джонсон,PER,PER
+ru-1004,Джонсона,PER,PER
+ru-1004,Дэвид Дэвис,PER,PER
+ru-1004,Дэвис,PER,PER
+ru-1004,ЕС,ORG,ORG
+ru-1004,Евросоюзом,ORG,ORG
+ru-1004,Западных Балкан,LOC,PER
+ru-1004,Консервативной партии,ORG,ORG
+ru-1004,Лондоне,LOC,LOC
+ru-1004,МИД Великобритании,ORG,PER
+ru-1004,МИД,ORG,PER
+ru-1004,Мэй,PER,PER
+ru-1004,Польши,LOC,PER
+ru-1004,ТАСС,ORG,PER
+ru-1004,Терезы Мэй,PER,PER
+ru-1011,Brexit,EVT,EVT
+ru-1011,The Guardian,PRO,PRO
+ru-1011,Борис Джонсон,PER,PER
+ru-1011,Бориса Джонсона,PER,PER
+ru-1011,Борисом Джонсоном,PER,PER
+ru-1011,Великобританией,LOC,PER
+ru-1011,Великобритании,LOC,LOC
+ru-1011,Джонсона,PER,PER
+ru-1011,Джонсоном,PER,PER
+ru-1011,Дэвид Дэвис,PER,PER
+ru-1011,Дэвисом,PER,PER
+ru-1011,ЕС,ORG,ORG
+ru-1011,Евросоюза,ORG,ORG
+ru-1011,Мэй,PER,PER
+ru-1011,Палате общин,ORG,PER
+ru-1011,Тереза Мэй,PER,PER
+ru-1011,Терезу Мэй,PER,PER
+ru-1011,Терезы Мэй,PER,PER
